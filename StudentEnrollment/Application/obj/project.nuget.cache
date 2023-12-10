@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+rXyYNm3+pB0WJxJFep4ZkVRox7gUT0Z0/sEVDBrqH0GjlDNYpBQjlI+tTZuIIRZ63ngeXqw3oTN7AUn4EbF+A==",
+  "dgSpecHash": "VYakpnD3Y3Tg3u0LR09lBRLm56MIlhdyjrLgZsXyBh3NOZX52Stk3eoPNQJ4o8QFG2nJv/93hOZ2/ByP/ssV3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Documents\\GitHub\\StudentEnrollment\\StudentEnrollment\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
