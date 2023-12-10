@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l0H3ILM1kPSrwPTl9xNx+e467at1CpMwo37Mx+rjbN/F4qUmgJxb2Yr+vMMU7ZsUHnVrZznnftmqpN2U9LmrTQ==",
+  "dgSpecHash": "35y6DFSRffiWaUiYY8hgT4K8J7pdJ1zzBHKfeYrG/bic5mDjs9Di6wSVDmcqqaM6BAoBpBdOWWiT0XD3iKVXtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David\\source\\repos\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\David\\Documents\\GitHub\\StudentEnrollment\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

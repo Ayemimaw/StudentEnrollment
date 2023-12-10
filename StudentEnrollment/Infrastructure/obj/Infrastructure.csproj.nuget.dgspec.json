@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\source\\repos\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\David\\Documents\\GitHub\\StudentEnrollment\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\source\\repos\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\David\\Documents\\GitHub\\StudentEnrollment\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\source\\repos\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Documents\\GitHub\\StudentEnrollment\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\David\\source\\repos\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\David\\Documents\\GitHub\\StudentEnrollment\\StudentEnrollment\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\source\\repos\\StudentEnrollment\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\David\\Documents\\GitHub\\StudentEnrollment\\StudentEnrollment\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
